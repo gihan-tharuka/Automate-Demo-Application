@@ -46,7 +46,7 @@ AutoMate is a comprehensive automotive service management system designed for au
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/gihan-tharuka/AutoMate.git
+   git clone https://github.com/gihan-tharuka/Automate-Demo-Application.git
    cd AutoMate
    ```
 
