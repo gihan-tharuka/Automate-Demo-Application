@@ -1,0 +1,11 @@
+[phases.setup]
+aptPkgs = [
+  "libicu-dev",   # needed for intl
+  "libzip-dev",   # needed for zip
+  "unzip"
+]
+
+[phases.build]
+cmds = [
+  "docker-php-ext-install intl zip"
+]
